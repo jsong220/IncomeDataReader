@@ -1,0 +1,10 @@
+Wed Dec 23 03:07:06 PST 2020
+Added:: Gender:Male and Wage:->50k
+Wed Dec 23 03:11:14 PST 2020
+Added:: Gender:Female and Wage:<=50k
+Wed Dec 23 07:16:49 PST 2020
+Added:: Gender:Female and Wage:<=50k
+Wed Dec 23 07:17:16 PST 2020
+Added:: Gender:Male and Wage:>50k
+Wed Dec 23 07:17:31 PST 2020
+Added:: Gender:Male and Wage:<=50k

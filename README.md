@@ -1,5 +1,5 @@
 # IncomeDataReader
-A simple project to extract data from a CSV file for analytics
+Extracts data from .data file to compare wages between males and females
 
 ## Prepare MongoDB
 Build a new docker image
@@ -15,7 +15,10 @@ Run the image
 >sbt test
 
 ## Run
->stb --error run
+>sbt --error run
+
+## Run log file
+>sbt --error "run log"
 
 # Requirements
 - [ ] Written in Scala/SBT
